@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name :RADHIMEENA M
+
 Roll no :212223040159
+
 Date of experiment :12.08.24
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
